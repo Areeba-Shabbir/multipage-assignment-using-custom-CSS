@@ -286,7 +286,7 @@ h5 {
 }
 
 /* Responsive styles for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .header {
     text-align: center; /* Center the header on smaller screens */
     padding: 15px 10px;
@@ -337,7 +337,7 @@ h5 {
 }
 
 /* Responsive styles for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .footer {
     text-align: center; /* Center the footer content */
     padding: 15px 10px;
