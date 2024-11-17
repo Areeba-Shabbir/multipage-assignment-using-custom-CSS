@@ -4,7 +4,7 @@ export default function Contact(){
             <h1> Get in Touch with Us </h1>
             Get in Touch with Us
 
-We'd love to hear from you! Whether you have a question, feedback, or just want to chat about your latest read, don’t hesitate to reach out. Here’s how you can connect with us: <br />
+We love to hear from you! Whether you have a question, feedback, or just want to chat about your latest read, dont hesitate to reach out. Here how you can connect with us: <br />
 
 Email: shabbirareeba94@gmail.com <br />
 Social Media: Follow us on <h5>Instagram</h5>
